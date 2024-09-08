@@ -1,0 +1,202 @@
+[
+   {
+      "id": 1,
+      "joke": "Pourquoi les plongeurs plongent-ils toujours en arrière et jamais en avant ? Parce que sinon ils tombent dans le bateau."
+   },
+   {
+      "id": 2,
+      "joke": "Quel est le comble pour un électricien ? De ne pas être au courant."
+   },
+   {
+      "id": 3,
+      "joke": "Pourquoi les oiseaux ne jouent-ils pas au poker ? Parce qu'il y a trop de tricheurs."
+   },
+   {
+      "id": 4,
+      "joke": "Que fait une abeille quand elle se coiffe ? Elle se met du miel sur les cheveux."
+   },
+   {
+      "id": 5,
+      "joke": "Comment est-ce que l'on appelle un chat qui a tout vu ? Un chat-témoin."
+   },
+   {
+      "id": 6,
+      "joke": "Pourquoi le mathématicien a-t-il arrêté d’étudier les cercles ? Parce qu’il en avait assez de tourner en rond."
+   },
+   {
+      "id": 7,
+      "joke": "Quel est le comble pour un jardinier ? De ne pas avoir la main verte."
+   },
+   {
+      "id": 8,
+      "joke": "Pourquoi les canards sont-ils toujours de bonne humeur ? Parce qu'ils sont dans leur élément."
+   },
+   {
+      "id": 9,
+      "joke": "Quelle est la nourriture préférée des électriciens ? Les fils de fer."
+   },
+   {
+      "id": 10,
+      "joke": "Quel est le comble pour un boulanger ? De ne pas avoir de pain sur la planche."
+   },
+   {
+      "id": 11,
+      "joke": "Pourquoi les voleurs de banque sont-ils toujours fatigués ? Parce qu'ils travaillent 24 heures sur 24."
+   },
+   {
+      "id": 12,
+      "joke": "Quel est le comble pour un médecin ? De ne pas avoir de patients."
+   },
+   {
+      "id": 13,
+      "joke": "Pourquoi les pirates sont-ils si mauvais en mathématiques ? Parce qu'ils ont un œil de verre."
+   },
+   {
+      "id": 14,
+      "joke": "Quelle est la partie du corps la plus rapide ? Le pied, parce qu'il fait toujours une bonne foulée."
+   },
+   {
+      "id": 15,
+      "joke": "Pourquoi les poissons détestent-ils l’ordinateur ? Parce qu'ils ont peur du net."
+   },
+   {
+      "id": 16,
+      "joke": "Quel est le comble pour un couturier ? De coudre une pièce à conviction."
+   },
+   {
+      "id": 17,
+      "joke": "Pourquoi les mathématiciens détestent-ils les montagnes russes ? Parce qu'ils ont trop de problèmes."
+   },
+   {
+      "id": 18,
+      "joke": "Quel est le comble pour un écrivain ? De ne pas avoir d’intrigue."
+   },
+   {
+      "id": 19,
+      "joke": "Pourquoi les électriciens ne font-ils pas de jogging ? Parce qu’ils ont peur des courts-circuits."
+   },
+   {
+      "id": 20,
+      "joke": "Quel est le comble pour un bibliothécaire ? De ne pas trouver le livre qu’il cherche."
+   },
+   {
+      "id": 21,
+      "joke": "Pourquoi les plongeurs plongent-ils toujours en arrière ? Parce qu'en avant, ils tombent dans le bateau."
+   },
+   {
+      "id": 22,
+      "joke": "Quel est le comble pour un pâtissier ? De ne pas être dans son élément."
+   },
+   {
+      "id": 23,
+      "joke": "Pourquoi les joueurs de tennis n’ont-ils jamais de mauvais jours ? Parce qu'ils ont toujours un bon service."
+   },
+   {
+      "id": 24,
+      "joke": "Quel est le comble pour un banquier ? De ne pas avoir d’argent sur lui."
+   },
+   {
+      "id": 25,
+      "joke": "Pourquoi les éléphants ne surfent-ils pas sur Internet ? Parce qu'ils ont peur des souris."
+   },
+   {
+      "id": 26,
+      "joke": "Quel est le comble pour un musicien ? De ne pas avoir de ton."
+   },
+   {
+      "id": 27,
+      "joke": "Pourquoi les chauffeurs de taxi sont-ils toujours pressés ? Parce qu'ils ont des clients à prendre."
+   },
+   {
+      "id": 28,
+      "joke": "Quel est le comble pour un jardinier ? De ne pas avoir de potager."
+   },
+   {
+      "id": 29,
+      "joke": "Pourquoi les chiens ne jouent-ils pas au football ? Parce qu'ils ont peur du ballon."
+   },
+   {
+      "id": 30,
+      "joke": "Quel est le comble pour un peintre ? De ne pas avoir de couleurs dans sa palette."
+   },
+   {
+      "id": 31,
+      "joke": "Pourquoi les fermiers n’aiment-ils pas les jeux de société ? Parce qu’ils préfèrent les jeux de champs."
+   },
+   {
+      "id": 32,
+      "joke": "Quel est le comble pour un photographe ? De ne pas voir le développement de son travail."
+   },
+   {
+      "id": 33,
+      "joke": "Pourquoi les policiers n’aiment-ils pas les ascenseurs ? Parce qu'ils ont peur des escaliers."
+   },
+   {
+      "id": 34,
+      "joke": "Quel est le comble pour un médecin ? De ne pas avoir de patients."
+   },
+   {
+      "id": 35,
+      "joke": "Pourquoi les joueurs de poker sont-ils de bons amis ? Parce qu’ils savent quand se coucher."
+   },
+   {
+      "id": 36,
+      "joke": "Quel est le comble pour un serveur ? De ne pas servir son client."
+   },
+   {
+      "id": 37,
+      "joke": "Pourquoi les scientifiques n’aiment-ils pas les volcans ? Parce qu'ils sont toujours en éruption."
+   },
+   {
+      "id": 38,
+      "joke": "Quel est le comble pour un menuisier ? De ne pas avoir de bois."
+   },
+   {
+      "id": 39,
+      "joke": "Pourquoi les gardiens de but sont-ils de bons chanteurs ? Parce qu'ils ont le bon rythme."
+   },
+   {
+      "id": 40,
+      "joke": "Quel est le comble pour un écrivain ? De ne pas avoir d’intrigue."
+   },
+   {
+      "id": 41,
+      "joke": "Pourquoi les mathématiciens sont-ils si fatigués ? Parce qu’ils ont trop de calculs à faire."
+   },
+   {
+      "id": 42,
+      "joke": "Quel est le comble pour un chauffeur de bus ? De ne pas avoir de passagers."
+   },
+   {
+      "id": 43,
+      "joke": "Pourquoi les chauffeurs de taxi sont-ils toujours en retard ? Parce qu’ils ont des clients à attendre."
+   },
+   {
+      "id": 44,
+      "joke": "Quel est le comble pour un pompier ? De ne pas avoir de feu."
+   },
+   {
+      "id": 45,
+      "joke": "Pourquoi les peintres sont-ils de bons narrateurs ? Parce qu’ils ont toujours des histoires en couleurs."
+   },
+   {
+      "id": 46,
+      "joke": "Quel est le comble pour un pêcheur ? De ne pas avoir de poisson à attraper."
+   },
+   {
+      "id": 47,
+      "joke": "Pourquoi les musiciens n’aiment-ils pas les questions ? Parce qu’ils préfèrent les réponses."
+   },
+   {
+      "id": 48,
+      "joke": "Quel est le comble pour un sportif ? De ne pas avoir de compétition."
+   },
+   {
+      "id": 49,
+      "joke": "Pourquoi les avocats n’aiment-ils pas les jeux de société ? Parce qu’ils préfèrent les procès."
+   },
+   {
+      "id": 50,
+      "joke": "Quel est le comble pour un bibliothécaire ? De ne pas avoir de livres à ranger."
+   }
+]

@@ -1,0 +1,136 @@
+[
+   {
+      "id": 1,
+      "joke": "¿Por qué los pájaros no usan Facebook? Porque ya tienen Twitter."
+   },
+   {
+      "id": 2,
+      "joke": "¿Cómo se llama un campeón de buceo japonés? Tokofondo."
+   },
+   { "id": 3, "joke": "¿Qué hace una abeja en el gimnasio? ¡Zum-ba!" },
+   { "id": 4, "joke": "¿Cómo se dice pañuelo en japonés? Saka-moko." },
+   {
+      "id": 5,
+      "joke": "¿Qué le dice una iguana a su hermana gemela? Somos iguanitas."
+   },
+   {
+      "id": 6,
+      "joke": "¿Por qué el libro de matemáticas está estresado? Porque tiene muchos problemas."
+   },
+   {
+      "id": 7,
+      "joke": "¿Cuál es el café más peligroso del mundo? El ex-preso."
+   },
+   { "id": 8, "joke": "¿Qué hace una vaca en un terremoto? ¡Leche agitada!" },
+   {
+      "id": 9,
+      "joke": "¿Qué hace una computadora cuando tiene hambre? ¡Comida de byte!"
+   },
+   {
+      "id": 10,
+      "joke": "¿Qué le dice un semáforo a otro? No me mires, estoy cambiando."
+   },
+   {
+      "id": 11,
+      "joke": "¿Cuál es el animal más antiguo? La cebra, porque es en blanco y negro."
+   },
+   {
+      "id": 12,
+      "joke": "¿Por qué el libro de historia está siempre tan tranquilo? Porque ya sabe todo."
+   },
+   {
+      "id": 13,
+      "joke": "¿Qué le dice una lámpara a otra? ¿Nos vemos en el apagón?"
+   },
+   {
+      "id": 14,
+      "joke": "¿Qué le dice un jardinero a otro? ¡Disfrutemos mientras podamos!"
+   },
+   {
+      "id": 15,
+      "joke": "¿Por qué los pájaros no usan Twitter? Porque ya tienen alas."
+   },
+   { "id": 16, "joke": "¿Qué hace un pez cuando está aburrido? ¡Nada!" },
+   {
+      "id": 17,
+      "joke": "¿Cómo se llama un dinosaurio que está durmiendo? Un dinosnoro."
+   },
+   {
+      "id": 18,
+      "joke": "¿Por qué las vacas usan campanas? Porque sus cuernos no funcionan."
+   },
+   { "id": 19, "joke": "¿Cómo se llama un boomerang que no vuelve? Un palo." },
+   { "id": 20, "joke": "¿Qué hace un pato cuando está enojado? ¡Da un grito!" },
+   {
+      "id": 21,
+      "joke": "¿Por qué el libro de matemáticas se deprimió? Porque tenía demasiados problemas."
+   },
+   { "id": 22, "joke": "¿Cuál es el animal más antiguo? La tortuga." },
+   {
+      "id": 23,
+      "joke": "¿Qué le dice un semáforo a otro? No me mires, estoy cambiando."
+   },
+   { "id": 24, "joke": "¿Qué le dice un pez a otro? ¡Nada, nada!" },
+   {
+      "id": 25,
+      "joke": "¿Cuál es el colmo de un electricista? No encontrar corriente."
+   },
+   { "id": 26, "joke": "¿Cómo se dice pañuelo en japonés? Saka-moko." },
+   { "id": 27, "joke": "¿Qué le dice una taza a otra? ¿Qué taza te pasó?" },
+   { "id": 28, "joke": "¿Qué hace un matemático en una playa? Hacer cuentas." },
+   {
+      "id": 29,
+      "joke": "¿Por qué los peces no usan Facebook? Porque ya están en la red."
+   },
+   { "id": 30, "joke": "¿Cuál es el lugar más frío? La nevera." },
+   {
+      "id": 31,
+      "joke": "¿Qué le dice un semáforo a otro? No me mires, estoy cambiando."
+   },
+   {
+      "id": 32,
+      "joke": "¿Cómo se llama un perro sin patas? Da igual cómo lo llames, no va a venir."
+   },
+   {
+      "id": 33,
+      "joke": "¿Por qué el libro de matemáticas está estresado? Porque tiene demasiados problemas."
+   },
+   { "id": 34, "joke": "¿Qué hace una abeja en una boda? ¡Zum-ba!" },
+   { "id": 35, "joke": "¿Cómo se llama un gato que se cae? ¡Gato-cido!" },
+   { "id": 36, "joke": "¿Cuál es el café más peligroso? El ex-preso." },
+   {
+      "id": 37,
+      "joke": "¿Qué le dice un semáforo a otro? No me mires, estoy cambiando."
+   },
+   {
+      "id": 38,
+      "joke": "¿Cómo se llama un caballo que vive en el mar? Caballo-mar."
+   },
+   {
+      "id": 39,
+      "joke": "¿Por qué los pájaros no usan WhatsApp? Porque ya tienen Twitter."
+   },
+   { "id": 40, "joke": "¿Qué hace una abeja en una fiesta? ¡Zum-ba!" },
+   { "id": 41, "joke": "¿Cómo se dice pañuelo en japonés? Saka-moko." },
+   { "id": 42, "joke": "¿Cuál es el café más peligroso? El ex-preso." },
+   {
+      "id": 43,
+      "joke": "¿Por qué el libro de historia está siempre tan tranquilo? Porque ya sabe todo."
+   },
+   {
+      "id": 44,
+      "joke": "¿Qué le dice una lámpara a otra? ¡Nos vemos en el apagón!"
+   },
+   {
+      "id": 45,
+      "joke": "¿Por qué las vacas usan campanas? Porque sus cuernos no funcionan."
+   },
+   {
+      "id": 46,
+      "joke": "¿Cómo se llama un dinosaurio que está durmiendo? Un dinosnoro."
+   },
+   { "id": 47, "joke": "¿Qué hace un pez cuando está aburrido? ¡Nada!" },
+   { "id": 48, "joke": "¿Cómo se dice pañuelo en japonés? Saka-moko." },
+   { "id": 49, "joke": "¿Qué hace una vaca en un terremoto? ¡Leche agitada!" },
+   { "id": 50, "joke": "¿Qué hace un pato cuando está enojado? ¡Da un grito!" }
+]
